@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CD_MERN_React_GranInversion-Practice/static/css/main.ec6312ee.css",
+    "main.js": "/CD_MERN_React_GranInversion-Practice/static/js/main.bd76fe09.js",
+    "static/js/787.dc482682.chunk.js": "/CD_MERN_React_GranInversion-Practice/static/js/787.dc482682.chunk.js",
+    "index.html": "/CD_MERN_React_GranInversion-Practice/index.html",
+    "main.ec6312ee.css.map": "/CD_MERN_React_GranInversion-Practice/static/css/main.ec6312ee.css.map",
+    "main.bd76fe09.js.map": "/CD_MERN_React_GranInversion-Practice/static/js/main.bd76fe09.js.map",
+    "787.dc482682.chunk.js.map": "/CD_MERN_React_GranInversion-Practice/static/js/787.dc482682.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6312ee.css",
+    "static/js/main.bd76fe09.js"
+  ]
+}
